@@ -1,7 +1,3 @@
-Creating a housing society management app is a complex task that requires a team of developers, designers, and project managers. However, I can provide you with an overview of the key features and functionalities that you might want to include in your housing society management app. 
-
-Here are some essential features and components you should consider:
-
 1. **User Authentication and Profile Management:**
    - Registration and login for residents, committee members, and staff.
    - User profiles with personal information, contact details, and apartment/unit details.
